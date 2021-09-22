@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BlueAmmo
+  - Red
+  - RedAmmo
+  - Yellow
+  - Blue
+  - Orange
+  - White
+  - Coin
+  - Wall
+  - Pink
+  - Weapon
+  - awp
+  - Chest
+  - Boost
+  - Box
+  - Room
+  - StartRoom
+  - NextLvl
+  - RoomBoss
+  - ArmorBoss
+  - Boos
+  - GameEndMeneger
+  - ServerMenu
+  - Server
+  - InterfaceManager
+  - GlowMeneger
+  - CameraM
+  - Content
+  - ProfileTotalContent
+  - MainMenuMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SomeThink
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NextLvl
+    uniqueID: 4154170479
+    locked: 0
